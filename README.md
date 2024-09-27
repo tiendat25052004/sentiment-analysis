@@ -33,5 +33,5 @@ The project implements 2 supervised ML models:
 The results show the following accuracy scores:
 - **Decision Tree**: ```72%```
 - **Random Forest**: ```84%```
-- - **XGBoost with Tree**: ```86%``` (just for testing)
+- **XGBoost with Tree**: ```86%``` (just for testing)
 The Random Forest classifier generally outperforms the Decision Tree in terms of accuracy, demonstrating the power of ensemble methods in text classification
